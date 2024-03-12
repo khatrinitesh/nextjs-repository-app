@@ -1,5 +1,5 @@
 
-import CustomApp from "./boards/page";
+import CustomApp from "./episode/page";
 
 export default function Home() {
   return (

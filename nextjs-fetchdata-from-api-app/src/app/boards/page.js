@@ -7,6 +7,7 @@ const CustomApp = () => {
     const [error, setError] = useState("");
 
     const baseurl = "https://chroniclingamerica.loc.gov/newspapers.json";
+    
   
     const fetchData = async () => {
         setLoading(true);
