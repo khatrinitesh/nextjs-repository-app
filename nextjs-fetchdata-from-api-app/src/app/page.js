@@ -1,5 +1,5 @@
 
-import CustomApp from "./episode/page";
+import CustomApp from "./library/page";
 
 export default function Home() {
   return (
