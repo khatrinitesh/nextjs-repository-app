@@ -1,5 +1,5 @@
 
-import CustomApp from "./library/page";
+import CustomApp from "./cores/page";
 
 export default function Home() {
   return (
