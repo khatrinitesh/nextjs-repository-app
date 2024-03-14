@@ -1,5 +1,5 @@
 
-import CustomApp from "./cores/page";
+import CustomApp from "./asteroidsneoWs/page";
 
 export default function Home() {
   return (
